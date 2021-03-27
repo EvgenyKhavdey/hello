@@ -1,0 +1,1 @@
+ A: 1234567 B: абвгдежз A: petrov B: ivanov C: sedorov
