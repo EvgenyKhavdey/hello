@@ -1,0 +1,26 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æåéıÿÿÿÿ8œ¹õõ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Î€ä‚şÿÿÿÿ8œ¹õõ.
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(¿¸Â›
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(«¯•¥øÿÿÿÿ8œ¹õõ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œ“¦úÿÿÿÿ8œ¹õõ.
+D
+java:S1481*"(Remove this unused "cat" local variable.(ƒË¾K8‰ìÑÌÙ.
+>
+java:S1068"(Remove this unused "name" private field.(Ë¥¼
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Î€ä‚şÿÿÿÿ8‰ìÑÌÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨øæ¾8‰ìÑÌÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´İùÿÿÿÿ8‰ìÑÌÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(œé•ÿÿÿÿÿ8œ¹õõ.
+M	java:S106"9Replace this use of System.out or System.err by a logger.(²Ï—r
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8‰ìÑÌÙ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶”èÙúÿÿÿÿ8‰ìÑÌÙ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(ıÚßş8œ¹õõ.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Î€ä‚şÿÿÿÿ8‰ìÑÌÙ.
+t
+java:S1171	"YMove the contents of this initializer to a standard constructor or to field initializers.(Î€ä‚şÿÿÿÿ

@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿¤œ˜üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ú“Üİ
+^
+java:S3518!"CMake sure this expression can't be zero before doing this division.(¾Ÿ“ÿÿÿÿÿ
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(ııß
+A
+java:S1481!"&Remove this unused "a" local variable.(¾Ÿ“ÿÿÿÿÿ
