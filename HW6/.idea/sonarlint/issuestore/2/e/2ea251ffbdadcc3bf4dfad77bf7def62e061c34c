@@ -1,0 +1,13 @@
+
+c
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(Ô¢´ 8Õ®ºÈĞ.
+t
+java:S1450"YRemove the "finishTime" field and declare it as a local variable in the relevant methods.(Òº·øÿÿÿÿ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›¬¶
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ì‚Ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ•¸ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“×òŒøÿÿÿÿ
+X
+java:S2696"6Make the enclosing method "static" or remove this set.(Œèìùÿÿÿÿ8Õ®ºÈĞ.

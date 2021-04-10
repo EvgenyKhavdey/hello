@@ -1,0 +1,14 @@
+
+\
+java:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(âæ®Õ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ì‚Ê
+n
+java:S1450"XRemove the "startTime" field and declare it as a local variable in the relevant methods.(÷Œ¾
+V
+java:S2184*"@Cast one of the operands of this addition operation to a "long".(†û‡
+?
+java:S2140*")Use "java.util.Random.nextInt()" instead.(†û‡
+w
+java:S3008"URename this field "CARS_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å´ËÂùÿÿÿÿ8•½·ÈĞ.
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(ì–÷âúÿÿÿÿ
